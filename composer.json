@@ -1,5 +1,5 @@
 {
-	"name": "facilinfo/laravel-ckeditor",
+	"name": "unisharp/laravel-ckeditor",
 	"description": "JavaScript WYSIWYG web text editor (for laravel).",
 	"type": "library",
 	"keywords": [ "ckeditor", "fckeditor", "editor", "wysiwyg", "html", "richtext", "text", "javascript", "laravel"],
