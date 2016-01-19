@@ -1,5 +1,5 @@
 {
-	"name": "unisharp/laravel-ckeditor",
+	"name": "facilinfo/laravel-ckeditor",
 	"description": "JavaScript WYSIWYG web text editor (for laravel).",
 	"type": "library",
 	"keywords": [ "ckeditor", "fckeditor", "editor", "wysiwyg", "html", "richtext", "text", "javascript", "laravel"],
@@ -23,11 +23,11 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Unisharp\\Ckeditor\\": "./"
+			"Facilinfo\\Ckeditor\\": "./"
 		}
 	},
 	"require": {
-		"illuminate/support": "~5.0.17|5.1.*"
+		"illuminate/support": "5.2.*"
 	},
 	"minimum-stability": "dev"
 }
